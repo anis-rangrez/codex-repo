@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-gradient-brand {
+    background: linear-gradient(135deg, #6C47FF 0%, #FF2DF4 100%);
+  }
+  .text-gradient-brand {
+    background: linear-gradient(135deg, #6C47FF 0%, #FF2DF4 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}

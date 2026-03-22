@@ -1,0 +1,229 @@
+[
+    {
+        "id": "post_001",
+        "content": "Just wrapped up an amazing photoshoot today! The lighting was absolutely perfect ☀️ Can't wait to share more behind-the-scenes content with you all. What do you think of this look? 📸✨",
+        "media": [],
+        "author": {
+            "id": "user_001",
+            "username": "sarah_creative",
+            "fullName": "Sarah Johnson",
+            "profileImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200",
+            "isVerified": true
+        },
+        "createdAt": 1734530400000,
+        "likesCount": 1234,
+        "commentsCount": 89,
+        "repostsCount": 45,
+        "sharesCount": 23,
+        "viewsCount": 15600,
+        "isLiked": false,
+        "isBookmarked": false,
+        "isAdmiring": false
+    },
+    {
+        "id": "post_002",
+        "content": "The beauty of nature never fails to amaze me 🌅",
+        "media": [
+            {
+                "uri": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+                "type": "image",
+                "width": 1200,
+                "height": 800
+            }
+        ],
+        "author": {
+            "id": "user_002",
+            "username": "mike_adventure",
+            "fullName": "Mike Chen",
+            "profileImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200",
+            "isVerified": true
+        },
+        "createdAt": 1734526800000,
+        "likesCount": 5623,
+        "commentsCount": 234,
+        "repostsCount": 145,
+        "sharesCount": 87,
+        "viewsCount": 89000,
+        "isLiked": true,
+        "isBookmarked": false,
+        "isAdmiring": true
+    },
+    {
+        "id": "post_003",
+        "content": "New collection drop! Which one is your favorite? 👇 Let me know in the comments! Each piece is handcrafted with love and attention to detail. Limited edition - only 50 pieces available worldwide! 🎨",
+        "media": [
+            {
+                "uri": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "uri": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "uri": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1200
+            },
+            {
+                "uri": "https://images.unsplash.com/photo-1485968579169-66d5dd85be6b?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1200
+            }
+        ],
+        "author": {
+            "id": "user_003",
+            "username": "emma_fashion",
+            "fullName": "Emma Williams",
+            "profileImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200",
+            "isVerified": false
+        },
+        "createdAt": 1734523200000,
+        "likesCount": 8921,
+        "commentsCount": 567,
+        "repostsCount": 234,
+        "sharesCount": 156,
+        "viewsCount": 125000,
+        "isLiked": false,
+        "isBookmarked": true,
+        "isAdmiring": false
+    },
+    {
+        "id": "post_004",
+        "content": "Hot take: The best code is the code you don't write. 💡\n\nEvery line of code is a liability. Every function is a potential bug. Every feature is maintenance.\n\nSimplicity wins. Always.\n\nWhat's your coding philosophy? Drop your thoughts below! 👇\n\n#coding #programming #developer #tech #softwareengineering",
+        "media": [],
+        "author": {
+            "id": "user_004",
+            "username": "david_dev",
+            "fullName": "David Miller",
+            "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200",
+            "isVerified": true
+        },
+        "createdAt": 1734519600000,
+        "likesCount": 3456,
+        "commentsCount": 189,
+        "repostsCount": 234,
+        "sharesCount": 67,
+        "viewsCount": 45000,
+        "isLiked": true,
+        "isBookmarked": false,
+        "isAdmiring": true
+    },
+    {
+        "id": "post_005",
+        "content": "Morning vibes at the beach 🏖️",
+        "media": [
+            {
+                "uri": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+                "type": "image",
+                "width": 1200,
+                "height": 800
+            }
+        ],
+        "author": {
+            "id": "user_005",
+            "username": "travel_alex",
+            "fullName": "Alex Travel",
+            "profileImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200",
+            "isVerified": true
+        },
+        "createdAt": 1734516000000,
+        "likesCount": 12500,
+        "commentsCount": 456,
+        "repostsCount": 567,
+        "sharesCount": 234,
+        "viewsCount": 250000,
+        "isLiked": false,
+        "isBookmarked": false,
+        "isAdmiring": false
+    },
+    {
+        "id": "post_006",
+        "content": "Just finished reading this amazing book! 📚 Highly recommend it to anyone interested in personal growth and mindfulness. The author shares such profound insights about living in the present moment and finding peace in everyday chaos.\n\nHere are my top 3 takeaways:\n1. Embrace uncertainty - it's where growth happens\n2. Practice gratitude daily - even for small things\n3. Connection over perfection - be authentic\n\nWhat's the last book that changed your perspective? 🤔",
+        "media": [],
+        "author": {
+            "id": "user_006",
+            "username": "jessica_reads",
+            "fullName": "Jessica Lee",
+            "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+            "isVerified": false
+        },
+        "createdAt": 1734512400000,
+        "likesCount": 2345,
+        "commentsCount": 156,
+        "repostsCount": 89,
+        "sharesCount": 45,
+        "viewsCount": 34000,
+        "isLiked": false,
+        "isBookmarked": true,
+        "isAdmiring": false
+    },
+    {
+        "id": "post_007",
+        "content": "Behind the scenes of our latest music video! 🎬🎵",
+        "media": [
+            {
+                "uri": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800",
+                "type": "video",
+                "width": 1920,
+                "height": 1080
+            }
+        ],
+        "author": {
+            "id": "user_007",
+            "username": "dj_beats",
+            "fullName": "DJ Beats",
+            "profileImage": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200",
+            "isVerified": true
+        },
+        "createdAt": 1734508800000,
+        "likesCount": 18900,
+        "commentsCount": 892,
+        "repostsCount": 456,
+        "sharesCount": 345,
+        "viewsCount": 450000,
+        "isLiked": true,
+        "isBookmarked": false,
+        "isAdmiring": true
+    },
+    {
+        "id": "post_008",
+        "content": "Cozy coffee corner ☕✨",
+        "media": [
+            {
+                "uri": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1000
+            },
+            {
+                "uri": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=800",
+                "type": "image",
+                "width": 800,
+                "height": 1000
+            }
+        ],
+        "author": {
+            "id": "user_008",
+            "username": "cafe_vibes",
+            "fullName": "Cafe Vibes",
+            "profileImage": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200",
+            "isVerified": false
+        },
+        "createdAt": 1734505200000,
+        "likesCount": 4567,
+        "commentsCount": 234,
+        "repostsCount": 123,
+        "sharesCount": 89,
+        "viewsCount": 67000,
+        "isLiked": false,
+        "isBookmarked": false,
+        "isAdmiring": false
+    }
+]

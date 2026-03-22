@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "msg": "Hey! How are you doing? 👋",
+        "from": 0,
+        "date": "2024-12-17T10:00:00.000Z"
+    },
+    {
+        "id": 2,
+        "msg": "I'm doing great, thanks for asking! How about you?",
+        "from": 1,
+        "date": "2024-12-17T10:01:00.000Z"
+    },
+    {
+        "id": 3,
+        "msg": "Pretty good! Just working on some exciting new features 🚀",
+        "from": 0,
+        "date": "2024-12-17T10:02:00.000Z"
+    },
+    {
+        "id": 4,
+        "msg": "That sounds awesome! What kind of features?",
+        "from": 1,
+        "date": "2024-12-17T10:03:00.000Z"
+    },
+    {
+        "id": 5,
+        "msg": "We're building a new chat system with swipe-to-reply, real-time updates, and beautiful animations ✨",
+        "from": 0,
+        "date": "2024-12-17T10:04:00.000Z"
+    },
+    {
+        "id": 6,
+        "msg": "Wow, that's really cool! I can't wait to try it out",
+        "from": 1,
+        "date": "2024-12-17T10:05:00.000Z"
+    },
+    {
+        "id": 7,
+        "msg": "You'll love it! The UI is super smooth and intuitive",
+        "from": 0,
+        "date": "2024-12-17T10:06:00.000Z"
+    },
+    {
+        "id": 8,
+        "msg": "When do you think it'll be ready?",
+        "from": 1,
+        "date": "2024-12-17T10:07:00.000Z"
+    },
+    {
+        "id": 9,
+        "msg": "Soon! We're putting the finishing touches on it right now 🎉",
+        "from": 0,
+        "date": "2024-12-17T10:08:00.000Z"
+    },
+    {
+        "id": 10,
+        "msg": "Can't wait! Let me know when it's live 💪",
+        "from": 1,
+        "date": "2024-12-17T10:09:00.000Z"
+    }
+]
